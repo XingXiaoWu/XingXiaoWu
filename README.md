@@ -14,6 +14,8 @@
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingxiaowu)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning Vue, React, Node... I will learn anything which I think it's interesting.
 - 📫 How to reach me: 329106954@qq.com
