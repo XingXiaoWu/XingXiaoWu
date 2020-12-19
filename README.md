@@ -12,9 +12,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingxiaowu)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xingxiaowu)](https://github.com/XingXiaoWu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xingxiaowu&hide=html,css)](https://github.com/XingXiaoWu)
 
 - 🔭 I’m currently working on Beijing
 - 🌱 I’m currently learning Vue, React, Node... I will learn anything which I think it's interesting.
